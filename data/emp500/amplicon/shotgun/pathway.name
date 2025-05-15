@@ -1,0 +1,110 @@
+ko00010	Glycolysis / Gluconeogenesis
+ko00020	Citrate cycle (TCA cycle)
+ko00030	Pentose phosphate pathway
+ko00040	Pentose and glucuronate interconversions
+ko00051	Fructose and mannose metabolism
+ko00052	Galactose metabolism
+ko00053	Ascorbate and aldarate metabolism
+ko00061	Fatty acid biosynthesis
+ko00062	Fatty acid elongation
+ko00071	Fatty acid degradation
+ko00100	Steroid biosynthesis
+ko00120	Primary bile acid biosynthesis
+ko00130	Ubiquinone and other terpenoid-quinone biosynthesis
+ko00190	Oxidative phosphorylation
+ko00220	Arginine biosynthesis
+ko00230	Purine metabolism
+ko00232	Caffeine metabolism
+ko00240	Pyrimidine metabolism
+ko00250	Alanine, aspartate and glutamate metabolism
+ko00253	Tetracycline biosynthesis
+ko00260	Glycine, serine and threonine metabolism
+ko00261	Monobactam biosynthesis
+ko00270	Cysteine and methionine metabolism
+ko00280	Valine, leucine and isoleucine degradation
+ko00290	Valine, leucine and isoleucine biosynthesis
+ko00300	Lysine biosynthesis
+ko00310	Lysine degradation
+ko00311	Penicillin and cephalosporin biosynthesis
+ko00330	Arginine and proline metabolism
+ko00331	Clavulanic acid biosynthesis
+ko00332	Carbapenem biosynthesis
+ko00333	Prodigiosin biosynthesis
+ko00340	Histidine metabolism
+ko00350	Tyrosine metabolism
+ko00360	Phenylalanine metabolism
+ko00361	Chlorocyclohexane and chlorobenzene degradation
+ko00362	Benzoate degradation
+ko00380	Tryptophan metabolism
+ko00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+ko00404	Staurosporine biosynthesis
+ko00405	Phenazine biosynthesis
+ko00410	beta-Alanine metabolism
+ko00430	Taurine and hypotaurine metabolism
+ko00470	D-Amino acid metabolism
+ko00480	Glutathione metabolism
+ko00500	Starch and sucrose metabolism
+ko00510	N-Glycan biosynthesis
+ko00513	Various types of N-glycan biosynthesis
+ko00515	Mannose type O-glycan biosynthesis
+ko00520	Amino sugar and nucleotide sugar metabolism
+ko00521	Streptomycin biosynthesis
+ko00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+ko00523	Polyketide sugar unit biosynthesis
+ko00525	Acarbose and validamycin biosynthesis
+ko00531	Glycosaminoglycan degradation
+ko00540	Lipopolysaccharide biosynthesis
+ko00541	O-Antigen nucleotide sugar biosynthesis
+ko00561	Glycerolipid metabolism
+ko00562	Inositol phosphate metabolism
+ko00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+ko00564	Glycerophospholipid metabolism
+ko00592	alpha-Linolenic acid metabolism
+ko00600	Sphingolipid metabolism
+ko00620	Pyruvate metabolism
+ko00621	Dioxin degradation
+ko00622	Xylene degradation
+ko00623	Toluene degradation
+ko00624	Polycyclic aromatic hydrocarbon degradation
+ko00626	Naphthalene degradation
+ko00627	Aminobenzoate degradation
+ko00630	Glyoxylate and dicarboxylate metabolism
+ko00640	Propanoate metabolism
+ko00650	Butanoate metabolism
+ko00660	C5-Branched dibasic acid metabolism
+ko00670	One carbon pool by folate
+ko00680	Methane metabolism
+ko00710	Carbon fixation in photosynthetic organisms
+ko00720	Carbon fixation pathways in prokaryotes
+ko00730	Thiamine metabolism
+ko00740	Riboflavin metabolism
+ko00750	Vitamin B6 metabolism
+ko00760	Nicotinate and nicotinamide metabolism
+ko00770	Pantothenate and CoA biosynthesis
+ko00780	Biotin metabolism
+ko00785	Lipoic acid metabolism
+ko00790	Folate biosynthesis
+ko00860	Porphyrin metabolism
+ko00900	Terpenoid backbone biosynthesis
+ko00906	Carotenoid biosynthesis
+ko00910	Nitrogen metabolism
+ko00920	Sulfur metabolism
+ko00940	Phenylpropanoid biosynthesis
+ko00941	Flavonoid biosynthesis
+ko00997	Biosynthesis of various other secondary metabolites
+ko00998	Biosynthesis of various antibiotics
+ko01040	Biosynthesis of unsaturated fatty acids
+ko01056	Biosynthesis of type II polyketide backbone
+ko01057	Biosynthesis of type II polyketide products
+ko01059	Biosynthesis of enediyne antibiotics
+ko01100	Metabolic pathways
+ko01110	Biosynthesis of secondary metabolites
+ko01120	Microbial metabolism in diverse environments
+ko01200	Carbon metabolism
+ko01210	2-Oxocarboxylic acid metabolism
+ko01212	Fatty acid metabolism
+ko01220	Degradation of aromatic compounds
+ko01230	Biosynthesis of amino acids
+ko01232	Nucleotide metabolism
+ko01240	Biosynthesis of cofactors
+ko01250	Biosynthesis of nucleotide sugars
